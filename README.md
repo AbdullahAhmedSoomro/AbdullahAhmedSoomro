@@ -28,7 +28,6 @@
       <img alt="GitHub followers" src="https://img.shields.io/github/followers/Abdullah245?style=social">
 </div>
 -->
-<hr>
 <div align="left">
 <h2>Did you know<img </h2> 
 <img src="https://media.giphy.com/media/b88QlTSTsj3bEHQyZf/giphy.gif" height="32px" width="30px"/>
@@ -56,11 +55,12 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/Abdullah245/github-readme-streak-stats" title="Go to Source">
-      <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah245&theme=react&border=61dafb&hide_border=true" alt="Abdullah245" />
+      <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah245&theme=dark&background=000000" alt="Abdullah245" />
     </a>
     <a href="https://github.com/Abdullah245/github-readme-stats" title="Go to Source">
-      <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=Abdullah245&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=Abdullah245&compact&theme=vision-friendly-dark&show_icons=true" />
     </a>
+    
   </div>
   
   <!-- My Contribution Section
