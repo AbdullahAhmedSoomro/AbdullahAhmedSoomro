@@ -1,25 +1,29 @@
+<!-- Main GIF -->
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/cUAGuLiEcTBwRfkAQq/giphy.gif" width="300"/>
 </div>
 
+<!-- Social Links Badges -->
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/abdullah-ahmed-soomro-4b22b6216/">
     <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff">
   </a>
-  <a href="your-github-URL">
+  <a href="https://github.com/Abdullah245">
     <img src="https://img.shields.io/badge/Github-211F1F?style=for-the-badge&logo=GitHub&logoColor=ffffff">
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://www.facebook.com/profile.php?id=100007697626018">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=ffffff">
   </a>
   
-  <a href="your-gmail-URL">
+  <a href="mailto:abdullahsoomro245@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=ffffff">
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/_AB_Soomro">
     <img src="https://img.shields.io/badge/twitter-1877F2?style=for-the-badge&logo=twitter&logoColor=ffffff">
   </a>
 </div>
+
+<!-- Introduction -->
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="35px" width="35px">, I am Abdullah Ahmed Soomro :octocat: </h1>
 
 <!-- <div align="center"> 
@@ -28,16 +32,17 @@
       <img alt="GitHub followers" src="https://img.shields.io/github/followers/Abdullah245?style=social">
 </div>
 -->
+
+<!-- Who I am Section -->
 <div align="left">
 <h2>Did you know<img </h2> 
 <img src="https://media.giphy.com/media/b88QlTSTsj3bEHQyZf/giphy.gif" height="32px" width="30px"/>
 <img src="https://media.giphy.com/media/efahdL9izxq64bAGY5/giphy.gif" height="30px">
 </div>
-
 - 💻 I am currently working as a flutter developer Internie.
 - 🌱 I am Studying Computer Science from Sindh Madressatul Islam University.
 - 🎯 A major goal is to be the best developer.
-
+  
 <!-- Tools and Technology Section -->
 <h2 align="center">Tools and Technologies 🛠</h2>
 <div align="center">
