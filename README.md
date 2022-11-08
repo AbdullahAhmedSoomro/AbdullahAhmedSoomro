@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/abdullah-ahmed-soomro-4b22b6216/">
     <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff">
   </a>
-  <a href="https://github.com/Abdullah245">
+  <a href="https://github.com/AbdullahAhmedSoomro">
     <img src="https://img.shields.io/badge/Github-211F1F?style=for-the-badge&logo=GitHub&logoColor=ffffff">
   </a>
   <a href="https://www.facebook.com/profile.php?id=100007697626018">
@@ -27,9 +27,9 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="35px" width="35px">, I am Abdullah Ahmed Soomro :octocat: </h1>
 
 <!-- <div align="center"> 
-      <img src="https://komarev.com/ghpvc/?username=Abdullah245&label=Profile%20views&color=0e75b6&style=flat" alt="AbdullahAhmedSoomro" />
-      <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/Abdullah245?style=social"> 
-      <img alt="GitHub followers" src="https://img.shields.io/github/followers/Abdullah245?style=social">
+      <img src="https://komarev.com/ghpvc/?username=AbdullahAhmedSoomro&label=Profile%20views&color=0e75b6&style=flat" alt="AbdullahAhmedSoomro" />
+      <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/AbdullahAhmedSoomro?style=social"> 
+      <img alt="GitHub followers" src="https://img.shields.io/github/followers/AbdullahAhmedSoomro?style=social">
 </div>
 -->
 
@@ -52,18 +52,18 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <br>
 <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah245&theme=dark&layout=compact&langs_count=20&hide_title=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahAhmedSoomro&theme=dark&layout=compact&langs_count=20&hide_title=true"/>
 </div>
 
 <!-- Github Stats Section -->
 <h2 align="center">Github Stats ⚡</h2>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/Abdullah245/github-readme-streak-stats" title="Go to Source">
-      <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah245&theme=dark&background=000000" alt="Abdullah245" />
+    <a href="https://github.com/AbdullahAhmedSoomro/github-readme-streak-stats" title="Go to Source">
+      <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahAhmedSoomro&theme=dark&background=000000" alt="AbdullahAhmedSoomro" />
     </a>
-    <a href="https://github.com/Abdullah245/github-readme-stats" title="Go to Source">
-      <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=Abdullah245&compact&theme=vision-friendly-dark&show_icons=true" />
+    <a href="https://github.com/AbdullahAhmedSoomro/github-readme-stats" title="Go to Source">
+      <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=AbdullahAhmedSoomro&compact&theme=vision-friendly-dark&show_icons=true" />
     </a>
     
   </div>
