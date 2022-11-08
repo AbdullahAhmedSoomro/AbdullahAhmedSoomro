@@ -39,6 +39,7 @@
 <img src="https://media.giphy.com/media/b88QlTSTsj3bEHQyZf/giphy.gif" height="32px" width="30px"/>
 <img src="https://media.giphy.com/media/efahdL9izxq64bAGY5/giphy.gif" height="30px">
 </div>
+  
 - 💻 I am currently working as a flutter developer Internie.
 - 🌱 I am Studying Computer Science from Sindh Madressatul Islam University.
 - 🎯 A major goal is to be the best developer.
