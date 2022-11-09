@@ -74,7 +74,7 @@
 
   <!-- My Contribution Section ![snake gif](https://github.com/Abdullah245/Abdullah245/blob/output/github-contribution-grid-snake.svg)  -->
 <div align="center">
-  ![snake gif](https://github.com/AbdullahAhmedSoomro/AbdullahAhmedSoomro/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/AbdullahAhmedSoomro/AbdullahAhmedSoomro/blob/output/github-contribution-grid-snake.gif)
   </div>
   </p>
 
