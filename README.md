@@ -65,16 +65,13 @@
     </a>
     <a href="https://github.com/AbdullahAhmedSoomro/github-readme-stats" title="Go to Source">
       <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=AbdullahAhmedSoomro&compact&theme=vision-friendly-dark&show_icons=true" />
-    </a>
-    
+    </a>    
   </div>
   
 
 <h2 align="left">Here are my Contributions <img src="https://media.giphy.com/media/f7Ox8bCtiirhtPXR1h/giphy.gif" height="50px" width="50px"></h2>
 
   <!-- My Contribution Section ![snake gif](https://github.com/Abdullah245/Abdullah245/blob/output/github-contribution-grid-snake.svg)  -->
-<div align="center">
+
   ![snake gif](https://github.com/AbdullahAhmedSoomro/AbdullahAhmedSoomro/blob/output/github-contribution-grid-snake.gif)
-  </div>
-  </p>
 
