@@ -37,8 +37,8 @@
 <img src="https://media.giphy.com/media/efahdL9izxq64bAGY5/giphy.gif" height="30px">
 </div>
   
-- 💻 I am currently working as a flutter developer Internie.
-- 🌱 I am Studying Computer Science from Sindh Madressatul Islam University.
+- 💻 I am currently working as a Junior Flutter Developer.
+- 🌱 Graduated from Sindh Madressatul Islam University.
 - 🎯 A major goal is to be the best developer.
   
 <!-- Tools and Technology Section -->
