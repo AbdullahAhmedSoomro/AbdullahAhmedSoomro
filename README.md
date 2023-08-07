@@ -8,9 +8,6 @@
   <a href="https://www.linkedin.com/in/abdullah-ahmed-soomro-4b22b6216/">
     <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff">
   </a>
-  <a href="https://github.com/AbdullahAhmedSoomro">
-    <img src="https://img.shields.io/badge/Github-211F1F?style=for-the-badge&logo=GitHub&logoColor=ffffff">
-  </a>
   <a href="https://www.facebook.com/profile.php?id=100007697626018">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=ffffff">
   </a>
