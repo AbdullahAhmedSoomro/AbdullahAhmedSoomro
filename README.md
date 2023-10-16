@@ -72,10 +72,5 @@
 <h2 align="left">Here are my Contributions <img src="https://media.giphy.com/media/f7Ox8bCtiirhtPXR1h/giphy.gif" height="50px" width="50px"></h2>
 
 <!-- My Contribution Section -->
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  </picture>
+![Snake animation](https://raw.githubusercontent.com/abdullahahmedsoomro/abdullahahmedsoomro/output/github-contribution-grid-snake-dark.svg)
 
