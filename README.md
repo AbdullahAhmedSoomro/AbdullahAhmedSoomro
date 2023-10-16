@@ -18,6 +18,9 @@
   <a href="https://twitter.com/_AB_Soomro">
     <img src="https://img.shields.io/badge/twitter-1877F2?style=for-the-badge&logo=twitter&logoColor=ffffff">
   </a>
+  <a href="https://medium.com/@AbdullahAhmedSoomro">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium">
+  </a>
 </div>
 
 <!-- Introduction -->
@@ -70,4 +73,9 @@
 
 <!-- My Contribution Section -->
 
-  ![snake svg](https://github.com/AbdullahAhmedSoomro/AbdullahAhmedSoomro/blob/output/github-contribution-grid-snake.svg)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+
