@@ -1,7 +1,4 @@
 <!-- Main GIF -->
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/cUAGuLiEcTBwRfkAQq/giphy.gif" width="300"/>
-</div>
 
 <!-- Social Links Badges -->
 <div id="badges" align="center">
@@ -37,13 +34,29 @@
 <div align="left">
 <h2>Did you know<img </h2> 
 <img src="https://media.giphy.com/media/b88QlTSTsj3bEHQyZf/giphy.gif" height="32px" width="30px"/>
-<img src="https://media.giphy.com/media/efahdL9izxq64bAGY5/giphy.gif" height="30px">
+<img src="https://media.giphy.com/media/efahdL9izxq64bAGY5/giphy.gif" height="30px"/>
 </div>
+  <div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDlyMjl4Z2Vsa3cyZHEwbnMzNzh6eGl4bTNndHlsdGMxdmsybmZrMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="40%" align="right"/>
   
-- 💻 I am currently working as a Junior Flutter Developer.
-- 🌱 Graduated from Sindh Madressatul Islam University.
-- 🎯 A major goal is to be the best developer.
-  
+  <div align="left">
+    <ul>
+      <li>💻 I am currently working as a Junior Flutter Developer.</li>
+      <li>🌱 Graduated from Sindh Madressatul Islam University.</li>
+      <li>🎯 A major goal is to be the best developer.</li>
+    </ul>
+  <img src="https://camo.githubusercontent.com/a433273b618d7b8c2569ba6013774adf910ae8e3da45eaff176f64781bfd53fc/68747470733a2f2f72617069646170692e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031372f30312f6f63746f6361742e676966" width="30%" align="left"/>
+  </div>
+</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <!-- Tools and Technology Section -->
 <h2 align="center">Tools and Technologies 🛠</h2>
 <div align="center">
