@@ -46,7 +46,7 @@
       <li>🌍 Based in Karachi, Pakistan </li>
       <li>💻 I am currently working as a Junior Flutter Developer.</li>
       <li>🌱 Graduated from Sindh Madressatul Islam University.</li>
-      <li>🚀 Passionate about exploring the world of code and creativity! Transforming ideas into innovative solutions one line of code at a time.</li>
+      <li>🚀 Passionate about exploring the world of code and creativity!</li>
       <li>💬 Ask me about Dart, Flutter, and Git</li>
       <li>⚡ Fun fact: A coder who doesn't like coffee.</li>
     </ul>
