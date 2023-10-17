@@ -1,5 +1,5 @@
 <!-- Main GIF -->
-
+<img src="https://miro.medium.com/v2/resize:fit:1024/1*YBLtpeLfLasuXW1C-XkAlA.png" height="60%">
 <!-- Social Links Badges -->
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/abdullah-ahmed-soomro-4b22b6216/">
@@ -21,36 +21,37 @@
 </div>
 
 <!-- Introduction -->
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="35px" width="35px">, I am Abdullah Ahmed Soomro :octocat: </h1>
+<div  align="center">
+    <h1>👋 Hi, I am Abdullah Ahmed Soomro</h1>
+</div>
 
-<!-- <div align="center"> 
-      <img src="https://komarev.com/ghpvc/?username=AbdullahAhmedSoomro&label=Profile%20views&color=0e75b6&style=flat" alt="AbdullahAhmedSoomro" />
+ <div align="center"> 
+      <img src="https://komarev.com/ghpvc/?username=AbdullahAhmedSoomro&label=Profile%20views&color=0e75b6&style=flat" alt="AbdullahAhmedSoomro">
       <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/AbdullahAhmedSoomro?style=social"> 
       <img alt="GitHub followers" src="https://img.shields.io/github/followers/AbdullahAhmedSoomro?style=social">
 </div>
--->
 
 <!-- Who I am Section -->
 <div align="left">
-<h2>Did you know<img </h2> 
-<img src="https://media.giphy.com/media/b88QlTSTsj3bEHQyZf/giphy.gif" height="32px" width="30px"/>
-<img src="https://media.giphy.com/media/efahdL9izxq64bAGY5/giphy.gif" height="30px"/>
+  <h1 align="left">Did you know
+    <a href="https://media.giphy.com/media/efahdL9izxq64bAGY5/giphy.gif" target="_blank"><img src="https://media.giphy.com/media/b88QlTSTsj3bEHQyZf/giphy.gif" height="32px" width="30px" /></a>
+    <a href="https://media.giphy.com/media/efahdL9izxq64bAGY5/giphy.gif"><img  src="https://media.giphy.com/media/efahdL9izxq64bAGY5/giphy.gif" height="32px" width="30px"></a></h1>
 </div>
+ 
   <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDlyMjl4Z2Vsa3cyZHEwbnMzNzh6eGl4bTNndHlsdGMxdmsybmZrMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="40%" align="right"/>
   
   <div align="left">
     <ul>
+      <li>🌍 Based in Karachi, Pakistan </li>
       <li>💻 I am currently working as a Junior Flutter Developer.</li>
       <li>🌱 Graduated from Sindh Madressatul Islam University.</li>
-      <li>🎯 A major goal is to be the best developer.</li>
+      <li>🚀 Passionate about exploring the world of code and creativity! Transforming ideas into innovative solutions one line of code at a time.</li>
+      <li>💬 Ask me about Dart, Flutter, and Git</li>
+      <li>⚡ Fun fact: A coder who doesn't like coffee.</li>
     </ul>
-  <img src="https://camo.githubusercontent.com/a433273b618d7b8c2569ba6013774adf910ae8e3da45eaff176f64781bfd53fc/68747470733a2f2f72617069646170692e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031372f30312f6f63746f6361742e676966" width="30%" align="left"/>
   </div>
 </div>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -82,8 +83,11 @@
   </div>
   
 
-<h2 align="left">Here are my Contributions <img src="https://media.giphy.com/media/f7Ox8bCtiirhtPXR1h/giphy.gif" height="50px" width="50px"></h2>
+<h2 align="left">Here are my Contributions <a href="https://media.giphy.com/media/f7Ox8bCtiirhtPXR1h/giphy.gif"></a> <img src="https://media.giphy.com/media/f7Ox8bCtiirhtPXR1h/giphy.gif" height="50px" width="50px"></h2>
 
 <!-- My Contribution Section -->
 ![Snake animation](https://raw.githubusercontent.com/abdullahahmedsoomro/abdullahahmedsoomro/output/github-contribution-grid-snake-dark.svg)
 
+### Support Me 🌟
+
+<a href="https://www.buymeacoffee.com/abdullahahmed"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
