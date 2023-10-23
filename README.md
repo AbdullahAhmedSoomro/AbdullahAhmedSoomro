@@ -2,7 +2,7 @@
 <img src="https://miro.medium.com/v2/resize:fit:1024/1*YBLtpeLfLasuXW1C-XkAlA.png" height="60%">
 <!-- Social Links Badges -->
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/abdullah-ahmed-soomro-4b22b6216/">
+  <a href="https://www.linkedin.com/in/abdullah-ahmed-soomro/">
     <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff">
   </a>
   <a href="https://www.facebook.com/profile.php?id=100007697626018">
